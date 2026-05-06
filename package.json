@@ -1,0 +1,33 @@
+{
+  "name": "odin-project-homepage",
+  "version": "1.0.0",
+  "description": "This repository is a solution to the project outlined in [The Odin Project > Project: Homepage](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-homepage).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open",
+    "build": "webpack",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attritionxd-oss/odin-project-homepage.git"
+  },
+  "keywords": [],
+  "author": "attritionxd-oss",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/attritionxd-oss/odin-project-homepage/issues"
+  },
+  "homepage": "https://github.com/attritionxd-oss/odin-project-homepage#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.4",
+    "favicons-webpack-plugin": "^6.0.1",
+    "html-webpack-plugin": "^5.6.7",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.106.2",
+    "webpack-cli": "^7.0.2",
+    "webpack-dev-server": "^5.2.3"
+  }
+}
