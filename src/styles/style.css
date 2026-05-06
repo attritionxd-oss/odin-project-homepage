@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  font-size: var(--font-size);
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: var(--color-mono-190);
+  color: var(--color-mono-ddd);
+}
+
+h1 {
+  color: var(--color-purple-100);
+}
+
+a {
+  color: var(--color-purple-100);
+}
