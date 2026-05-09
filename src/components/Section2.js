@@ -24,7 +24,13 @@ export const Section2 = {
               />
               <div class="section-2__project-description">
                 <div class="section-2__project-description-header">
-                  <h3>Project 1</h3>
+                  <a 
+                    href="https://github.com/attritionxd-oss/odin-project-homepage"
+                    aria-label="GitHub repository"
+                    title="GitHub repository"
+                  >
+                    <h3>Project 1</h3>
+                  </a>
                   ${GitHubIcon.render()}
                 </div>
                 <p>
@@ -42,7 +48,13 @@ export const Section2 = {
               />
               <div class="section-2__project-description">
                 <div class="section-2__project-description-header">
-                  <h3>Project 2</h3>
+                  <a 
+                    href="https://github.com/attritionxd-oss/odin-project-homepage"
+                    aria-label="GitHub repository"
+                    title="GitHub repository"
+                  >
+                    <h3>Project 2</h3>
+                  </a>
                   ${GitHubIcon.render()}
                 </div>
                 <p>
@@ -60,7 +72,13 @@ export const Section2 = {
               />
               <div class="section-2__project-description">
                 <div class="section-2__project-description-header">
-                  <h3>Project 3</h3>
+                  <a 
+                    href="https://github.com/attritionxd-oss/odin-project-homepage"
+                    aria-label="GitHub repository"
+                    title="GitHub repository"
+                  >
+                    <h3>Project 3</h3>
+                  </a>
                   ${GitHubIcon.render()}
                 </div>
                 <p>
@@ -78,7 +96,13 @@ export const Section2 = {
               />
               <div class="section-2__project-description">
                 <div class="section-2__project-description-header">
-                  <h3>Project 4</h3>
+                  <a 
+                    href="https://github.com/attritionxd-oss/odin-project-homepage"
+                    aria-label="GitHub repository"
+                    title="GitHub repository"
+                  >
+                    <h3>Project 4</h3>
+                  </a>
                   ${GitHubIcon.render()}
                 </div>
                 <p>
@@ -96,7 +120,13 @@ export const Section2 = {
               />
               <div class="section-2__project-description">
                 <div class="section-2__project-description-header">
-                  <h3>Project 5</h3>
+                  <a 
+                    href="https://github.com/attritionxd-oss/odin-project-homepage"
+                    aria-label="GitHub repository"
+                    title="GitHub repository"
+                  >
+                    <h3>Project 5</h3>
+                  </a>
                   ${GitHubIcon.render()}
                 </div>
                 <p>
@@ -114,7 +144,13 @@ export const Section2 = {
               />
               <div class="section-2__project-description">
                 <div class="section-2__project-description-header">
-                  <h3>Project 6</h3>
+                  <a 
+                    href="https://github.com/attritionxd-oss/odin-project-homepage"
+                    aria-label="GitHub repository"
+                    title="GitHub repository"
+                  >
+                    <h3>Project 6</h3>
+                  </a>
                   ${GitHubIcon.render()}
                 </div>
                 <p>

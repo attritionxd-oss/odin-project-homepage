@@ -45,9 +45,9 @@
   margin-bottom: 0.5rem;
 }
 
-.section-2__project-description-header > h3,
-.section-2__project-description-header .github-icon {
+.section-2__project-description-header a {
   display: inline-block;
+  text-decoration: none;
 }
 
 .section-2__project-description-header .github-icon {
