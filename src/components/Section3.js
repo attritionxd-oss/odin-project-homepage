@@ -1,6 +1,8 @@
 import "./section-3.css";
 import LogoAsset from "/src/assets/logo.png?sizes[]=40";
 import { GitHubIcon } from "/src/assets/GitHubIcon.js";
+import { LinkedInIcon } from "/src/assets/LinkedInIcon.js";
+import { StackoverflowIcon } from "/src/assets/StackoverflowIcon.js";
 
 const contactInfoEmail = "developer@email.com";
 const contactInfoTel = "+1234567890";
@@ -24,8 +26,8 @@ export const Section3 = {
           /></a></li>
           <li class="section-3__socials-wrapper">
             <ul class="section-3__socials">
-              <li><a>T</a></li>
-              <li><a>L</a></li>
+              <li>${StackoverflowIcon.render()}</li>
+              <li>${LinkedInIcon.render()}</li>
               <li>${GitHubIcon.render()}</li>
             </ul>
           </li>

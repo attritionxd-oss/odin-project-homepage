@@ -23,6 +23,12 @@ a {
   color: var(--color-purple-100);
 }
 
-.github-icon g {
+.github-icon g,
+.linkedin-icon path:first-child,
+.stackoverflow-icon path {
   fill: var(--color-purple-100);
+}
+
+.linkedin-icon path:last-child {
+  fill: unset;
 }

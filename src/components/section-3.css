@@ -43,9 +43,12 @@
   display: flex;
   flex-direction: row;
   list-style-type: none;
+  gap: 1rem;
 }
 
-.section-3__socials .github-icon {
+.section-3__socials .github-icon,
+.section-3__socials .linkedin-icon,
+.section-3__socials .stackoverflow-icon {
   width: var(--icon-width);
   height: var(--icon-width);
 }
