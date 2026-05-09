@@ -1,0 +1,12 @@
+.vertical-nav {
+  display: block;
+  height: fit-content;
+  overflow: hidden;
+  position: fixed;
+  top: 50%;
+  right: 0;
+}
+
+.vertical-nav ul {
+  list-style: none;
+}

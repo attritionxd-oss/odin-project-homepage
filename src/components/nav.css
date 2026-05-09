@@ -1,0 +1,39 @@
+.header__nav-wrapper {
+  display: block;
+  position: relative;
+}
+
+.header__nav,
+.nav-icon {
+  margin-right: 2rem;
+}
+
+.header__nav {
+  display: none;
+  /* display: flex; */
+  flex-direction: column;
+  list-style: none;
+  align-items: center;
+
+  position: fixed;
+  top: var(--header-height);
+  right: 0;
+  height: fit-content;
+  z-index: 1;
+  color: var(--color-mono-ddd);
+  background-color: var(--color-mono-300);
+}
+
+.nav-icon {
+  display: block;
+}
+
+.header__nav-link {
+  padding: 1rem;
+}
+.header__nav-link > a {
+  color: var(--color-mono-ddd);
+}
+.header__nav-link:hover {
+  background-color: var(--color-purple-800);
+}
