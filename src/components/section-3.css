@@ -45,6 +45,11 @@
   list-style-type: none;
 }
 
+.section-3__socials .github-icon {
+  width: var(--icon-width);
+  height: var(--icon-width);
+}
+
 @media (max-width: 700px) {
   .section-3__contact-wrapper {
     padding: 2rem;

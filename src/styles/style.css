@@ -22,3 +22,7 @@ h1 {
 a {
   color: var(--color-purple-100);
 }
+
+.github-icon g {
+  fill: var(--color-purple-100);
+}

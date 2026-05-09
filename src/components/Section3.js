@@ -1,5 +1,6 @@
 import "./section-3.css";
 import LogoAsset from "/src/assets/logo.png?sizes[]=40";
+import { GitHubIcon } from "/src/assets/GitHubIcon.js";
 
 const contactInfoEmail = "developer@email.com";
 const contactInfoTel = "+1234567890";
@@ -25,7 +26,7 @@ export const Section3 = {
             <ul class="section-3__socials">
               <li><a>T</a></li>
               <li><a>L</a></li>
-              <li><a>G</a></li>
+              <li>${GitHubIcon.render()}</li>
             </ul>
           </li>
         </ul>
