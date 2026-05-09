@@ -1,0 +1,8 @@
+.nav-icon {
+  width: var(--header-height);
+  height: var(--header-height);
+}
+
+.nav-icon > path {
+  fill: var(--color-mono-ddd);
+}
