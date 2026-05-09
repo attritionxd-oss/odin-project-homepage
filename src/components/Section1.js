@@ -23,7 +23,7 @@ export const Section1 = {
           <h2>Developer name</h2>
           <h3>Fullstack developer</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet rem nulla maiores temporibus qui amet rerum tenetur est culpa cupiditate ipsa, labore quibusdam quas hic mollitia minus placeat nisi. Dolor!<p>
-          <a class="button-link">Full resume</a>
+          <a class="button-link" aria-label="Link to full resume unavailable" title="Link to full resume unavailable">Full resume</a>
         </div>
       </section>
     `;
