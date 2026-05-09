@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  background-color: var(--color-purple-900);
+  justify-content: space-between;
+}
+
+.header__logo-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.header__logo-wrapper h1 {
+  align-self: center;
+  justify-self: center;
+}
+
+/* @media (max-width: 400px) {
+  header {
+    justify-content: space-between;
+    gap: 1rem;
+  }
+} */

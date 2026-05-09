@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 10rem;
+  position: relative;
+}
+
+section {
+  margin: 8rem 0;
+}
