@@ -2,6 +2,4 @@
   display: block;
   height: var(--header-height);
   width: var(--header-height);
-  background-image: url("/src/assets/logo.png");
-  background-size: contain;
 }
